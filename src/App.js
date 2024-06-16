@@ -1,5 +1,6 @@
 import {About} from './About'
 import Welcome from "./vision-mission"
+import Product from "./Product"
 
 
 const wezeshaApp =()=>{
@@ -8,6 +9,7 @@ const wezeshaApp =()=>{
       <h1></h1>
       <About/>
       <Welcome/>
+      <Product/>
     </div>
   )
 }

@@ -1,0 +1,105 @@
+#mobilepic{
+    border-radius: 20%;
+    width: 60%;
+}
+
+#product-heading{
+    text-align: center;
+} 
+
+.about-mobileapp{
+    flex-wrap: wrap;
+    width: 40%;
+
+}
+
+#wezesha-mobileapp, #wezesha-dashboard{
+    display: flex;
+    margin-top: 5%;
+    align-items: center;
+    margin-left: 10%;
+    gap: 10%;
+
+}
+
+
+#dashboard-pic{
+    border-radius: 20%;
+    width: 60%;
+}
+
+@media only screen  and (min-width: 280px) and (max-width: 412px) { 
+    #mobilepic, #dashboard-pic{
+        border-radius: 20%;
+        width: 70%;
+        margin-left: 7%;
+    }
+
+    #wezesha-mobileapp, #wezesha-dashboard{
+        display: block;
+        margin-top: 5%;
+        align-items: center;
+        margin-left: 10%;
+    }
+
+    .about-mobileapp{
+        flex-wrap: wrap;
+        width: 90%;
+        margin-bottom: 10%;
+    
+    }
+
+}
+
+@media only screen  and (min-width: 414px) and (max-width: 556px) { 
+    #mobilepic, #dashboard-pic{
+        border-radius: 20%;
+        width: 60%;
+        margin-left: 10%;
+    }
+
+    #wezesha-mobileapp, #wezesha-dashboard{
+        display: block;
+        margin-top: 5%;
+        align-items: center;
+        margin-left: 10%;
+    }
+
+    .about-mobileapp{
+        flex-wrap: wrap;
+        width: 90%;
+        margin-bottom: 10%;
+    
+    }
+
+}
+
+@media only screen  and (min-width: 740px) and (max-width: 886px) { 
+    #mobilepic, #dashboard-pic{
+        border-radius: 20%;
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    #wezesha-mobileapp{
+        display: flex;
+        margin-top: 5%;
+        align-items: center;
+        margin-left: 10%;
+    }
+
+    #wezesha-dashboard{
+        display: flex;
+        align-items: center;
+        margin-right: 10%;
+    }
+
+    .about-mobileapp{
+        flex-wrap: wrap;
+        width: 120%;
+        margin-bottom: 10%;
+        margin-right: 7%;
+    
+    }
+
+}
