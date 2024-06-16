@@ -6,8 +6,7 @@ import vision  from '../images/vision.png';
 const Welcome=()=>{
     return(
        <div className='welcome'>
-        <div>
-        <h1 className="mission">Mission</h1>
+        <div className='mision'>
         <img id ="image" src={mission}/>
         <div className='our-mission'>
             Our mission is to bring smart agriculture to
@@ -16,8 +15,7 @@ const Welcome=()=>{
             accessibility processes.
         </div>
         </div>
-        <div>
-            <h1 className="vission">Vision</h1>
+        <div className='imagee'>
             <img id ="images" src={vision}/>
             <div className='our-vission'>
                 Our vission is to transform dairy farming
@@ -29,4 +27,3 @@ const Welcome=()=>{
     )
 }
 export default Welcome;
-
