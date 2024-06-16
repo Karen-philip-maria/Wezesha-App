@@ -1,48 +1,45 @@
-.welcome{
+welcome{
     background-color: #ffffff;
     display: flex;
-}
-.mission{
-     margin-bottom: -7px;
-    text-align: center;
-    color: rgb(0, 0, 0);
-    font-size: 50px;
-}
-.vission{
-    margin-bottom: -8px;
-    text-align: center;
-    color: rgb(0, 0, 0);
-    font-size: 50px;
-    
+    margin-left: -172px;
 }
 
 .our-mission{
     color: rgb(0, 0, 0);
     flex-wrap: wrap;
     width: 30%;
-    margin-left: 42%;
-    font-size: x-large;
+    margin-top: -17px;
+    margin-left: 58%;
+    font-size: 23px;
     text-align: start;
 }
 .our-vission{
     color: rgb(0, 0, 0);
     width: 30%;
+    margin-top: -18px;
     text-align: start;
-    margin-left: 40%;
+    margin-left: 23%;
     flex-wrap: wrap;
-    font-size: x-large;
+    font-size: 23px;
 }
 #image{
-    width: 73px;
-    height: 63px;
-    margin-top: -89px;
-    margin-left: 415px;
+    width: 323px;
+    height: 259px;
+    margin-top: 20px;
+    margin-left: 64%;
+}
+.imagee{
+    margin-top: -19.8%;
+    margin-left: -70px;
+}
+.mision{
+   margin-left: -57px;
 }
 #images{
-    width: 73px;
-    height: 75px;
-    margin-top: -89px;
-    margin-left: 200px;
+    width: 260px;
+    height: 25
+    5px;
+    margin-left: 30%; 
 }
  
 
