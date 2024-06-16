@@ -1,6 +1,7 @@
 #mobilepic{
     border-radius: 20%;
     width: 60%;
+    margin-left: 20%;
 }
 
 #product-heading{
@@ -10,22 +11,36 @@
 .about-mobileapp{
     flex-wrap: wrap;
     width: 40%;
+    left: 20%;
+
 
 }
 
 #wezesha-mobileapp, #wezesha-dashboard{
     display: flex;
-    margin-top: 5%;
+    margin-top: 10%;
     align-items: center;
-    margin-left: 10%;
-    gap: 10%;
+    margin-left: 20%;
+    gap: 2%;
 
 }
 
+#product-info{
+    position:absolute;
+    left: 20%;
+    width: 65%;
+    flex-wrap: wrap;
+
+}
+
+body{
+    font-size: x-large;
+}
 
 #dashboard-pic{
     border-radius: 20%;
     width: 60%;
+    right: 10%;
 }
 
 @media only screen  and (min-width: 280px) and (max-width: 412px) { 

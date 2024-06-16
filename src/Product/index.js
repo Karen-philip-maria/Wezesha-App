@@ -7,7 +7,7 @@ const Product = () =>{
         <body>
             <div>
                 <h1 id="product-heading">Products</h1>
-                <p>We will have a mobile app for farmers and a dashboard for Saccos and cooperatives.
+                <p id="product-info">We will have a mobile app for farmers and a dashboard for Saccos and cooperatives.
                     By providing a web app and dashboard that intergrates with cooperatives and Saccos. 
                     Wezesha will give farmers complete access to their documents, including dairy milk
                     productivity, deliveries, and sales transactions.
