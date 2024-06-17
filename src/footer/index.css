@@ -13,9 +13,10 @@
 #footer-text{
 display: flex;
 flex-direction: row;
-gap: 70%;
-    margin-left:13%;
+gap: 230px;
+    margin-left:17%;
     margin-top: 2%;
+    font-size: large;
   
 
 }
