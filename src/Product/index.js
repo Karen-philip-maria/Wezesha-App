@@ -5,8 +5,8 @@ import dashboard from '../images/dashboard.png';
 const Product = () =>{
     return(
         <body>
-            <div>
-                <h1 id="product-heading">Products</h1>
+            <div id="product-heading">
+                <h1>Products</h1>
                 <p id="product-info">We will have a mobile app for farmers and a dashboard for Saccos and cooperatives.
                     By providing a web app and dashboard that intergrates with cooperatives and Saccos. 
                     Wezesha will give farmers complete access to their documents, including dairy milk
