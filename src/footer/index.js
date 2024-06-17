@@ -1,10 +1,10 @@
 
 import './index.css';
-
+import logofooter from '../images/logofooter.png'
 const Footer = () => {
     return(
         <div id="footer">
-
+        <img id="logofooter" src={logofooter} alt="logo" />
     <div id="footer-text">
 
         <div >
