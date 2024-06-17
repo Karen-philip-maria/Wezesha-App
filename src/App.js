@@ -1,4 +1,4 @@
-import Landingpage  from "./Landing";
+import Landingpage, { Navbar }  from "./Landing";
 import {About} from './About'
 import Welcome from "./vision-mission"
 import Product from "./Product"
